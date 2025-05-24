@@ -10,17 +10,17 @@ My journey began with easy problems, where I learned fundamental concepts and bu
 - How to optimize solutions for better performance
 
 ### 🏆 Small Milestones of Mine
-1. **First Binary Search Implementation**
+1. **First Binary Search Implementation** (May 23, 2025)
    - Problem: [35. Search Insert Position](Easy/35_Search_Insert_Position.cpp)
    - Learned: How to implement efficient binary search and handle edge cases
    - Achievement: Reduced time complexity from O(n) to O(log n)
 
-2. **First Medium Problem**
+2. **First Medium Problem** (May 24, 2024)
    - Problem: [34. Find First and Last Position of Element in Sorted Array](Medium/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp)
    - Learned: How to modify binary search for specific requirements
    - Achievement: Successfully implemented a more complex binary search variant
 
-3. **Daily Challenges**
+3. **Daily Challenges** (May 24, 2024)
    - Started participating in daily challenges
    - Problem: [2942. Find Words Containing Character](Daily/2942_Find_Words_Containing_Character.cpp)
    - Learned: How to solve problems under time pressure
