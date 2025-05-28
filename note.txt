@@ -1,6 +1,7 @@
 Kiến thức cần ôn lại:
 Recursive
 Tree and graph
+Basic Math and Patterns
 
 WIP:
 WIP_6_Zigzag_Conversion
@@ -15,3 +16,4 @@ Check lại các file sau:
 145_Binary_Tree_Postorder_Traversal / Easy
 509_Fibonacci_Number / Easy
 168_Excel_Sheet_Column_Title / Easy
+319_Bulb_Switcher / Medium
