@@ -17,6 +17,8 @@ Check lại các file sau:
 509_Fibonacci_Number / Easy
 168_Excel_Sheet_Column_Title / Easy
 319_Bulb_Switcher / Medium
+148_Sort_List
+268_Missing_Number
 
 Tìm lời giải khác:
 209_Minimum_Size_Subarray_Sum
