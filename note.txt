@@ -7,6 +7,8 @@ WIP:
 WIP_6_Zigzag_Conversion
 WIP_122_Best_Time_to_Buy_and_Sell_Stock_II
 WIP_4_Median_of_Two_Sorted_Arrays
+WIP_525_Contiguous_Array
+WIP_290_Word_Pattern
 
 Check lại các file sau:
 13_Roman_to_Integer / Easy
@@ -23,3 +25,4 @@ Check lại các file sau:
 Tìm lời giải khác:
 209_Minimum_Size_Subarray_Sum
 205_Isomorphic_Strings
+12_Integer_to_Roman
