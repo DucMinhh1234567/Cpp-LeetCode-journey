@@ -2,6 +2,7 @@ Kiến thức cần ôn lại:
 Recursive
 Tree and graph
 Basic Math and Patterns
+DFS, BFS
 
 WIP:
 WIP_6_Zigzag_Conversion
