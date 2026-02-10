@@ -1,13 +1,7 @@
 # 🚀 My LeetCode Journey
 
 ## 🎯 The Beginning
-I started my LeetCode journey with a simple goal: to improve my problem-solving skills and master data structures and algorithms. To become a good dev in the future, I chose to implement all solutions in C++ to strengthen my understanding of the language and its features.
-
-## 📈 The Journey
-My journey began with easy problems, where I learned fundamental concepts and built confidence. Each problem solved was a step forward in understanding:
-- How to approach different types of problems
-- When to use specific data structures
-- How to optimize solutions for better performance
+I started my LeetCode journey with a simple goal: to improve my problem-solving skills and master data structures and algorithms. I chose to implement all solutions in C++ to strengthen my understanding of the language and its features.
 
 ### 🏆 Small Milestones of Mine
 1. **First Binary Search Implementation** (May 23, 2025)
@@ -43,14 +37,12 @@ My journey began with easy problems, where I learned fundamental concepts and bu
    - Build a personal problem-solving framework
 
 3. **Long-term Goals**
-   - Become proficient in competitive programming
    - Master advanced data structures
    - Help others in their coding journey
 
 ## 💻 Why C++?
 I chose C++ because:
 - It offers fine-grained control over memory and performance
-- It's widely used in competitive programming
 - It helps understand low-level concepts
 - It's valuable for system programming and game development
 
@@ -74,7 +66,7 @@ I chose C++ because:
 - `Easy/` - Starting point for learning fundamentals
 - `Medium/` - Challenging problems to grow skills
 - `Daily/` - Regular practice and quick problem-solving
-- `template.cpp` - My personal template for new solutions
+- `template.cpp` - My personal template for solutions
 - `libraries.cpp` - Common utilities I've developed
 
 ## 🤝 Join Me
